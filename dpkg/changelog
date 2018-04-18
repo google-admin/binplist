@@ -1,3 +1,9 @@
+binplist (0.1.6-1) unstable; urgency=low
+
+  * Changed source package name from python-binplist to binplist
+
+ -- Joachim Metz <joachim.metz@gmail.com>  Wed, 18 Apr 2018 07:46:46 +0200
+
 python-binplist (0.1.5-1) unstable; urgency=low
 
   * Changed binplist into python-binplist
