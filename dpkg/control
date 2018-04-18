@@ -1,4 +1,4 @@
-Source: python-binplist
+Source: binplist
 Section: python
 Priority: extra
 Maintainer: Jordi Sanchez <binplist.feedback@gmail.com>
